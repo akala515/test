@@ -1,7 +1,7 @@
 package main
 
 import (
-	gobmi "github.com/Duke1616/go-bmi"
+	gobmi "github.com/akala515/go-bmi"
 	"gorm.io/gorm"
 	"log"
 )
